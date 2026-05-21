@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+catboost
+lightgbm
+xgboost
+optuna
+pytest
