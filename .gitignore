@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+.venv/
+venv/
+.idea/
+train.csv
+test.csv
+sample_submission.csv
+outputs/
+submissions/*
+!submissions/README.md
+!submissions/submission_diverse_raw_group_pubshape_clip.csv
+catboost_info/
